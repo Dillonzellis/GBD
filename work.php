@@ -141,6 +141,37 @@
 				============================================= -->
                 <div id="portfolio" class="portfolio row grid-container gutter-20" data-layout="fitRows">
 
+
+                    <!-- Portfolio Item: Start -->
+                    <article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-web pf-web">
+                        <!-- Grid Inner: Start -->
+                        <div class="grid-inner">
+                            <!-- Image: Start -->
+                            <div class="portfolio-image">
+
+                                <img src="images/gbd-port/myGACU-web.png" alt="myGACU website">
+
+                                <!-- Overlay: Start -->
+                                <div class="bg-overlay">
+                                    <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+                                        <a href="https://www.mygacu.com/" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" target="_blank"><i class="icon-line-plus"></i></a>
+                                    </div>
+                                    <div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+                                </div>
+                                <!-- Overlay: End -->
+                            </div>
+                            <!-- Image: End -->
+                            <!-- Decription: Start -->
+                            <div class="portfolio-desc px-3">
+                                <h3><a href="portfolio-single.html">MyGeorgia Credit Union</a></h3>
+                                <span>Website</span>
+                            </div>
+                            <!-- Description: Start -->
+                        </div>
+                        <!-- Grid Inner: End -->
+                    </article>
+                    <!-- Portfolio Item: End -->
+
                     <!-- Portfolio Item: Start -->
                     <article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-web pf-web">
                         <!-- Grid Inner: Start -->
